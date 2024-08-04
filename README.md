@@ -25,7 +25,9 @@ All the necessary libraries are listed in the `requirements.txt` file. To instal
 ```bash
 pip install -r requirements.txt
 
-he Fitness Tracker project includes several key features and functions, organized as follows:
+## Functionality
+
+The Fitness Tracker project includes several key features and functions, organized as follows:
 
 ### Main Functions
 
