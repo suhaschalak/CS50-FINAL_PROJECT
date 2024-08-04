@@ -75,10 +75,8 @@ The Fitness Tracker project includes several key features and functions, organiz
 - **Interactive prompts**: Guide the user through entering data, setting goals, and viewing reports, ensuring a smooth and intuitive user experience.
 
   ## Installing Libraries
-
-All the necessary libraries are listed in the `requirements.txt` file. To install them, run:
-
-```bash
-pip install -r requirements.txt
+  All the necessary libraries are listed in the `requirements.txt` file. To install them, run:
+  ```bash
+  pip install -r requirements.txt
 
 By integrating these functionalities, the Fitness Tracker project provides a comprehensive tool for users to monitor their physical activities, set and achieve fitness goals, and visualize their progress over time.
