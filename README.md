@@ -18,12 +18,6 @@ The Fitness Tracker project is designed to help users monitor their physical act
 - **matplotlib**: A plotting library for creating static, animated, and interactive visualizations.
 - **seaborn**: A data visualization library based on matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
 
-## Installing Libraries
-
-All the necessary libraries are listed in the `requirements.txt` file. To install them, run:
-
-```bash
-pip install -r requirements.txt
 
 ## Functionality
 
@@ -79,5 +73,12 @@ The Fitness Tracker project includes several key features and functions, organiz
 
 - **Command-line interface (CLI)**: The project uses a simple CLI to interact with the user, providing prompts and displaying information in an easy-to-understand format.
 - **Interactive prompts**: Guide the user through entering data, setting goals, and viewing reports, ensuring a smooth and intuitive user experience.
+
+  ## Installing Libraries
+
+All the necessary libraries are listed in the `requirements.txt` file. To install them, run:
+
+```bash
+pip install -r requirements.txt
 
 By integrating these functionalities, the Fitness Tracker project provides a comprehensive tool for users to monitor their physical activities, set and achieve fitness goals, and visualize their progress over time.
