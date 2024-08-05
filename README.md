@@ -1,7 +1,7 @@
 # CS50-FINAL_PROJECT
 # Fitness Tracker
 
-#### Video Demo: [YouTube URL](https://youtu.be/nxQ5QZf21pI)
+#### Video Demo: [YouTube URL](https://youtu.be/LE1U6QoO9pk)
 #### Description:
 The Fitness Tracker project is designed to help users monitor their physical activity, set fitness goals, and track their progress over time. It leverages various technologies and principles to provide a comprehensive fitness tracking solution.
 
